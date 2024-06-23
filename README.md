@@ -43,7 +43,7 @@ This repository contains a full-stack CRUD (Create, Read, Update, Delete) applic
 ![Updated Employee](https://github.com/arjunrathod1996/springboot-react-crud-application/assets/110610821/55be7009-0fa8-48c6-a7ff-b7dde519d0d0)
 
 ### Updated Employee Stored In Database
-![MySql Updated Employee](https://github.com/arjunrathod1996/springboot-react-crud-application/assets/110610821/f943cfdb-82fa-4b72-9bed-358678da5399)
+![MySql Updated Employee](https://github.com/arjunrathod1996/springboot-react-crud-application/assets/110610821/53aa21f1-85da-43c6-a97c-d602c3768381)
 
 ### Before Deleted Employee List
 ![Before Deleted Employee List](https://github.com/arjunrathod1996/springboot-react-crud-application/assets/110610821/40bc304e-0753-4487-a999-2e49715cd982)
