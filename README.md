@@ -12,3 +12,5 @@ This repository contains a full-stack CRUD (Create, Read, Update, Delete) applic
 - **React Table:** Integrates React Table for displaying employee data in a tabular format, allowing for sorting, filtering, and pagination.
 - **Form Control:** Utilizes Form Control components from React Bootstrap for building interactive and validated input forms.
 - **Navigation:** Implements navigation using React Router's NavLink component for seamless navigation between different sections of the application.
+  
+![Home](https://github.com/arjunrathod1996/springboot-react-crud-application/assets/110610821/534eba05-43a2-411c-8299-a71cccc190a5)
