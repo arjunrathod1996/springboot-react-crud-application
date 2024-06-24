@@ -56,3 +56,5 @@ This repository contains a full-stack CRUD (Create, Read, Update, Delete) applic
 
 ### Search/Filter
 ![Search-Filter](https://github.com/arjunrathod1996/springboot-react-crud-application/assets/110610821/a2d968da-1da6-4680-a925-86a68f87e07b)
+- Food items can be added to the cart and ordered whenever desired.
+
